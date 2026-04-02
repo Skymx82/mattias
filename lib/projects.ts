@@ -210,7 +210,9 @@ export const projects: Project[] = [
       // { src: "/projets/glpi-customized/images/interface.png", alt: "Interface GLPI personnalisée" },
     ],
     files: [
-      // { name: "Rapport de projet", description: "Documentation technique", type: "pdf", url: "/projets/glpi-customized/files/rapport.pdf", size: "2.0 MB" },
+       { name: "Rapport de projet", description: "Documentation technique", type: "pdf", url: "/projets/glpi-customized/files/Compte_rendu1.pdf", size: "" },
+       { name: "Rapport de projet 2", description: "Documentation technique", type: "pdf", url: "/projets/glpi-customized/files/Compte_Rendu2.pdf", size: "" },
+       { name: "Rapport de projet 3", description: "Documentation technique", type: "pdf", url: "/projets/glpi-customized/files/Compte_Rendu3.pdf", size: "" },
     ],
     github: undefined,
     demo: undefined,
